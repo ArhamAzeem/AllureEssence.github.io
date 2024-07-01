@@ -1,0 +1,70 @@
+var homecards = [
+    {"hcardstitle":"CK 1","hcardimg":"CKProduct1.jpg"},
+    {"hcardstitle":"Davidoff 3","hcardimg":"DavidoffProduct3.jpg"},
+    {"hcardstitle":"Dior 3","hcardimg":"DiorProduct3.jpg"},
+    {"hcardstitle":"CK 3","hcardimg":"CKProduct3.jpg"},
+    {"hcardstitle":"Davidoff 6","hcardimg":"DavidoffProduct6.jpg"},
+    {"hcardstitle":"Dior 4","hcardimg":"DiorProduct4.jpg"},
+    {"hcardstitle":"CK 6","hcardimg":"CKProduct5.jpg"},
+    {"hcardstitle":"Davidoff 5","hcardimg":"DavidoffProduct5.jpg"},
+    {"hcardstitle":"Dior 2","hcardimg":"DiorProduct2.jpg"}
+];
+
+var productcards = [
+    {"prodcardstitle":"CK 1","prodcardimg":"CKProduct1.jpg"},
+    {"prodcardstitle":"Davidoff 1","prodcardimg":"DavidoffProduct1.jpg"},
+    {"prodcardstitle":"Dior 1","prodcardimg":"DiorProduct1.jpg"},
+    {"prodcardstitle":"CK 2","prodcardimg":"CKProduct2.jpg"},
+    {"prodcardstitle":"Davidoff 2","prodcardimg":"DavidoffProduct2.jpg"},
+    {"prodcardstitle":"Dior 2","prodcardimg":"DiorProduct2.jpg"},
+    {"prodcardstitle":"CK 3","prodcardimg":"CKProduct3.jpg"},
+    {"prodcardstitle":"Davidoff 3","prodcardimg":"DavidoffProduct3.jpg"},
+    {"prodcardstitle":"Dior 3","prodcardimg":"DiorProduct3.jpg"},
+    {"prodcardstitle":"CK 4","prodcardimg":"CKProduct4.jpg"},
+    {"prodcardstitle":"Davidoff 4","prodcardimg":"DavidoffProduct4.jpg"},
+    {"prodcardstitle":"Dior 4","prodcardimg":"DiorProduct4.jpg"},
+    {"prodcardstitle":"CK 5","prodcardimg":"CKProduct5.jpg"},
+    {"prodcardstitle":"Davidoff 5","prodcardimg":"DavidoffProduct5.jpg"},
+    {"prodcardstitle":"Dior 5","prodcardimg":"DiorProduct5.jpg"},
+    {"prodcardstitle":"CK 6","prodcardimg":"CKProduct6.jpg"},
+    {"prodcardstitle":"Davidoff 6","prodcardimg":"DavidoffProduct6.jpg"},
+    {"prodcardstitle":"Dior 6","prodcardimg":"DiorProduct6.jpg"}
+]
+
+var davidoffcards = [
+    {"davidofftitle":"Davidoff 1","davidoffimg":"DavidoffProduct1.jpg"},
+    {"davidofftitle":"Davidoff 2","davidoffimg":"DavidoffProduct2.jpg"},
+    {"davidofftitle":"Davidoff 3","davidoffimg":"DavidoffProduct3.jpg"},
+    {"davidofftitle":"Davidoff 4","davidoffimg":"DavidoffProduct4.jpg"},
+    {"davidofftitle":"Davidoff 5","davidoffimg":"DavidoffProduct5.jpg"},
+    {"davidofftitle":"Davidoff 6","davidoffimg":"DavidoffProduct6.jpg"},
+    {"davidofftitle":"Davidoff 7","davidoffimg":"DavidoffProduct7.jpg"},
+    {"davidofftitle":"Davidoff 2","davidoffimg":"DavidoffProduct8.jpg"},
+    {"davidofftitle":"Davidoff 9","davidoffimg":"DavidoffProduct9.jpg"}
+]
+
+var diorcards = [
+    {"diortitle":"Dior 1","diorimg":"DiorProduct1.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct2.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct3.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct4.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct5.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct6.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct7.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct8.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct9.jpg"},
+    {"diortitle":"Dior 1","diorimg":"DiorProduct10.jpg"}
+]
+
+var ckcards = [
+    {"cktitle":"CK 1","ckimg":"CKProduct1.jpg"},
+    {"cktitle":"CK 2","ckimg":"CKProduct2.jpg"},
+    {"cktitle":"CK 3","ckimg":"CKProduct3.jpg"},
+    {"cktitle":"CK 4","ckimg":"CKProduct4.jpg"},
+    {"cktitle":"CK 5","ckimg":"CKProduct5.jpg"},
+    {"cktitle":"CK 6","ckimg":"CKProduct6.jpg"},
+    {"cktitle":"CK 7","ckimg":"CKProduct7.jpg"},
+    {"cktitle":"CK 8","ckimg":"CKProduct8.jpg"},
+    {"cktitle":"CK 9","ckimg":"CKProduct9.jpg"},
+    {"cktitle":"CK 10","ckimg":"CKProduct10.jpg"},
+]
